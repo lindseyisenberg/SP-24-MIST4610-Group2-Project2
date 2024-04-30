@@ -25,7 +25,8 @@ The data set we chose contains information about the water quality of multiple R
 2. What factor caused dissolved oxygen to change the most over the year, and when does it occur?
 
 ## Data Manipulation/Filters
-Question 1: Read date (months), Years (filtered from 2000-2019), average dissolved Oxygen (mg/L) applied as a color mark.
+Question 1: Read date (months), Years (filtered from 2000-2019), average dissolved Oxygen (mg/L) applied as a color mark. Read date indicated the date in which measuresments were taken, and year shows a range of time from 2000 to 2019.
+Dissolved oxygen is placed on the graph as a mark; the scale in the bottom right hand corner denotes the meaning behing the color gradient.
 
 Question 2:
 Read date (months), Years (filtered from 2000-2019), average dissolved Oxygen (mg/L) applied as a color mark. Air and water temperature (degrees Celcius). 
