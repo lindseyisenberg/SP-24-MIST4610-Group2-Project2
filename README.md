@@ -29,7 +29,7 @@ Question 1: Read date (months), Years (filtered from 2000-2019), average dissolv
 Dissolved oxygen is placed on the graph as a mark; the scale in the bottom right hand corner denotes the meaning behing the color gradient.
 
 Question 2:
-Read date (months), Years (filtered from 2000-2019), average dissolved Oxygen (mg/L) applied as a color mark. Air and water temperature (degrees Celcius). 
+Read date (months), Years (filtered from 2000-2019), average dissolved Oxygen (mg/L) applied as a color mark. Air and water temperature (degrees Celcius).  Read date indicated the date in which measuresments were taken, and year shows a range of time from 2000 to 2019. Water and air temp are shown by side by side scatter plots, with the size of the dot denoting water temp. Trend lines are added to show correlation between variables.
 ## Analysis and Results
 
 Question 1
