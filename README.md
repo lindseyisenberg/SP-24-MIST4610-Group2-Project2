@@ -48,11 +48,13 @@ Question 2
 ![Screenshot (294)](https://github.com/nathanp2020/SP-24-MIST4610-Group2-Project2/assets/148779254/6c3b8bf2-26ba-4989-a19d-848688ca2340)
 
 
-In this specific issue this corporate entity is trying to figure out how average air temperature(C) has correlated with dissolved oxygen over the years. There is an apparent trend that shows through the visualization presented. By looking at the heat map of all the values per month for the last 20 years, we are able 
+In this specific issue this corporate entity is trying to figure out how average air temperature(C) has correlated with dissolved oxygen over the years. There is an apparent trend that shows through the visualization presented. 
+By looking at the heat map of all the values per month for the last 20 years, we are able 
 to see that dissolved oxygen tends to be lower during the summer months. This would explain the dip in our initial graph. We know from this trend that dissolved oxygen and temperature have an inverse relationship.
 
-![Screenshot (295)](https://github.com/nathanp2020/SP-24-MIST4610-Group2-Project2/assets/148779254/4d28b3a2-de1d-410b-b938-1a62ad724a84)
+![Screenshot (297)](https://github.com/nathanp2020/SP-24-MIST4610-Group2-Project2/assets/148779254/811bb26b-cda5-4731-97eb-b258499c323a)
 
-As temperature increases, dissolved oxygen in water decreases. We can see that in this accompanying visualization, where as the air temperatrue increases on the X-axis, the dissolved oxygen level decreases as well. We also see the water temperatrue increasing as the air temperature increases. This shows that air and water temp are highly correlated and dissolved oxygen levels also has a correlation to heat. This matches our observation that there is less dissolved oxygen in summer months due to high temperatures.
+
+The above dashboard shows dissolved oxygen and water temperature (C) plotted against air temperature. The purpose of this is to show how environmental external factors can impact the dissolved oixygen levels. As temperature increases, dissolved oxygen in water decreases. We can see that in this accompanying visualization, where as the air temperatrue increases on the X-axis, the dissolved oxygen level decreases as well. We also see the water temperatrue increasing as the air temperature increases. This shows that air and water temp are highly correlated and dissolved oxygen levels also has a correlation to heat. This matches our observation that there is less dissolved oxygen in summer months due to high temperatures.
 DO levels below 5 mg/L are considered high stress for fish. Anything below 3 mg/L is considered too low to support fish, and below 1 is considered hypoxic with little to no signs of life.
 The second accompanying visualization shows the change over the months of summer, and over the those months for a 20 year period (2000-2019). The trend lines clearly denoteate how this inverse relationship occurs. This visualization helps us better understand the maintenance requirements of these reserve pools by the federal government, as well as how the changing temperature and climate in our work impacts things such as wildlife reserves. 
